@@ -1,0 +1,6 @@
+
+
+This is a simple laravel application. It is built by using bootstrap, Laravel Collective for form, Eloquent and mysql for database.
+
+In this app we can send messages and see the list of messages. Simple CRUD operation is done in this app.
+
